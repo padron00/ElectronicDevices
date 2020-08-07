@@ -72,7 +72,8 @@ body {
   line-height: 1.6;
   color: #212529;
   text-align: left;
-  background-color: #f8fafc;
+  background-image: linear-gradient(to right top, #d0e0d2, #c6e0da, #c0dfe3, #c2dceb, #cbd8ee);
+
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
